@@ -50,3 +50,34 @@ print('\n    Erro quadrático médio:', mean_squared_error(y_pred, y))
 print('\n>>> Parâmetros do modelo (considerando y = Theta_0 + Theta_1*x):')
 print('\n    Theta_0:', regressor.intercept_)
 print('\n    Theta_1:', regressor.coef_[0])
+
+
+
+"""
+3028 51
+3064 51
+3023 70
+3009 74
+2987 76
+2892 85
+2918 83
+2868 90
+2717 95
+2664 97
+2637 102
+2555 106
+2436 110
+2397 112
+2186 115
+2049 121
+1982 125
+1919 128
+1780 132
+1616 138
+1420 140
+1355 143
+1321 145
+1247 148
+1165 150
+1144 152
+"""
